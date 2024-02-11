@@ -17,6 +17,8 @@
 ![Selenium](https://img.shields.io/badge/-Cucumber-000?&logo=cucumber)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Selenium](https://img.shields.io/badge/-Node-000?&logo=Nodedotjs)
+![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=cypress)
+
 
 
 
