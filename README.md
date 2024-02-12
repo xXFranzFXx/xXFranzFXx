@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=%20Franz%20Fernando%20-nl-&fontSize=55&fontColor=333&desc=QA%20Automation%20Engineer&animation=fadeIn&type=waving&color=gradient&height=135"/>
 </p>
 
-- ✅ Experience and strong understanding of automated testing and implementing and building testing frameworks from scratch using: 
+- ✅ Experience with automated testing and implementing and building testing frameworks from scratch using: 
 
 -  Git/GitLab/Gradle/Selenium WebDriver/Selenium Grid/Jenkins/TestNG/JUnit/Cucumber/REST Assured/mariaDb; 
 
