@@ -37,6 +37,9 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-000?&logo=mongodb)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2piejVnYnpoaW80cDhycTFlanpueGxsbHBrbDR0ZTRhdGFnYmszNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+</p>
 
 
 
