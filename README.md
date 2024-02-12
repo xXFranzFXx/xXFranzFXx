@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=%20Franz%20Fernando%20-nl-&fontSize=55&fontColor=333&desc=QA%20Automation%20Engineer&animation=fadeIn&type=waving&color=gradient&height=135"/>
+  <img src="https://capsule-render.vercel.app/api?text=%20xXFranzFXx%20-nl-&fontSize=55&fontColor=333&desc=QA%20Automation%20Engineer&animation=fadeIn&type=waving&color=gradient&height=135"/>
 </p>
 
 - ✅ Experience with automated testing and implementing and building testing frameworks from scratch using: 
